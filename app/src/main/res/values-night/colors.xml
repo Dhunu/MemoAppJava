@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E0101</color>
+    <color name="colorPrimaryDark">#D83006</color>
+    <color name="colorAccent">#D53109</color>
+    <color name="trans">#00000000 </color>
+    <color name="title">#9E0101</color>
+    <color name="text">#fff</color>
+    <color name="button">#FFFFFF</color>
+    <color name="toolbar_background">#9E0101</color>
+    <color name="hint_text_color">#B4F1E9E9</color>
+    <color name="background">#000000</color>
+    <color name="background_white">#fff</color>
+    <color name="radioButtonTint">#000000</color>
+    <color name="oval_shape">#74FD0000</color>
+</resources>

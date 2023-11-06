@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "591836412560",
+    "firebase_url": "https://syncmemoapp-aa7a5.firebaseio.com",
+    "project_id": "syncmemoapp-aa7a5",
+    "storage_bucket": "syncmemoapp-aa7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591836412560:android:66fc173a86c9510b37b615",
+        "android_client_info": {
+          "package_name": "com.angel.memoappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591836412560-2jdtmhb7ujoibv35lr9aq76r2phgfmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLl5MzbP8v_X8-elYPO3-BnkzHHs7JR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591836412560-2jdtmhb7ujoibv35lr9aq76r2phgfmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591836412560:android:dec60b06031f7a2637b615",
+        "android_client_info": {
+          "package_name": "com.example.syncmemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591836412560-2jdtmhb7ujoibv35lr9aq76r2phgfmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLl5MzbP8v_X8-elYPO3-BnkzHHs7JR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591836412560-2jdtmhb7ujoibv35lr9aq76r2phgfmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

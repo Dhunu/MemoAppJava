@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Memo App Java</string>
+    <string name="memo_to_do">Memo/To-Do</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="_1">1</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="app_theme">App Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="according_to_battery_saver">According to Battery Saver</string>
+    <string name="system_default">System Default</string>
+</resources>
